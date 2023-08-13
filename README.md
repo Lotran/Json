@@ -1,6 +1,7 @@
 # Json
 Json files
 
+# ВНИМАНИЕ! Перевод еще в процессе. Пока перевод неполный и не вполне верный.
 ---
 
 ### Russian language for SiYuan (ru_RU.json)
